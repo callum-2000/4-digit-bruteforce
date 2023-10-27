@@ -1,8 +1,6 @@
 <h1>4-digit-bruteforce</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-
 Simple Python script to brute force a 4-digit numeric code following a known password as part of the bandit wargame at 'overthewire.org'. The script connects to a daemon on a local port and echoes a known password followed by sequential iterations of 4-digit code. 
 <br />
 
